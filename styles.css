@@ -1,0 +1,8 @@
+.profile-image {
+    transition: all 2s;
+  }
+  
+  .profile-image:hover {
+    transform: rotateY(180deg);
+  }
+  
